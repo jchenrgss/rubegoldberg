@@ -86,7 +86,25 @@ Conservation of momentum (collisions): despite colliding into many objects throu
 In the partially elastic collison, the first ball travelled at a moderate speed toward the stationary target ball, and when it hit, most of the speed was 'transferred' to the second ball. The second ball started to move at a moderately slow speed forward, while the original ball was slowed down. If the velocities were added up however, a velocity equal to the velocity of the original ball before the collision would be achieved.
 
 ## Theoretical Background
+### Forms of energy in the machine:
+Gravitational potential energy: the golf balls start out at certain heights (for example, 1m), which provides an energy source that can be converted into kinetic energy to allow the balls to traverse the length of the track.
 
+Kinetic energy: as the balls roll down ramps and hills, they increase in speed so that they are able to overcome obstacles such as loops and hills. This energy is converted from gravitational potential energy.
+
+Thermal energy: as the balls travel along the track, some energy is lost as heat, slowing the ball down and increasing the time it takes for the machine to complete.
+
+Sound energy: similar to thermal energy, some of the balls' mechanical (kinetic) energy is converted into sound energy when it rolls on the track and encounters collisions with other objects, which slows the ball down and increases the time it takes for the machine to complete.
+
+Elastic potential energy: the spring at the end of the track provides a source of elastic energy; when the ball hits it, the spring compresses and then extends again, pushing the ball back in the opposite direction.
+
+### Energy transfers
+Gravitational potential energy -> kinetic energy: the golf ball starts out at certain heights (e.g. 1m), and then roll down ramps or hills, losing gravitational potential energy (height), as it converts to kinetic energy (speed). The speed allows the ball to complete the track and overcome obstacles along the way such as loops and hills.
+
+Kinetic energy -> thermal energy: as the golf ball travels along the track, friction between the ball's surface and the track surface produce thermal energy via the transfer of heat. This slows the ball down, increasing the time it takes for the machine to complete.
+
+Kinetic energy -> sound energy: similar to the loss of mechanical energy due to friction, when balls collide with other objects, sounds are produced (energy is converted from mechanical energy), which increases the time it takes for the machine to complete.
+
+Kinetic energy -> elastic potential energy and vice versa: when the golf ball hits the spring, it compresses it and kinetic energy is converted to elastic potential energy (the ball loses speed but travels further into the spring). This is followed by the release of the elastic energy (like gravitational potential energy), extending and converting the stored energy into kinetic energy, increasing the speed of the ball.
 
 ## Data
 
