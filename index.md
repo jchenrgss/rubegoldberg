@@ -26,7 +26,55 @@ The pulley system.
 The second ramp.
 
 ### Stage 3: To the horizontal loop
+This part is the same as the first stage, but is executed on the other half of the original array. The horizontal loop represents calculations determining where to split the array. At this point, the track turns 180 degrees, simply because there was not enough room to continue building forward.
 
+![alt text](https://i.imgur.com/Jrzl5NG.jpg "Stage 3")
+The horizontal loop.
+
+### Stage 4: To the second pulley
+The golf ball moves slowly through this flat section, representing the increased time it takes to further divide subarrays into more subarrays before they can be merged and thus sorted. After exiting the horizontal loop, the golf ball has very little speed, and also undergoes a partially elastic collision with another golf ball, again representing calculations determining where to split the array.
+
+![alt text](https://i.imgur.com/TTtP2J3.jpg "Stage 4")
+The fourth golf ball on the long straightway and the partially inelastic collision.
+
+### Stage 5: To the lever
+This section is twice as long, lengthwise, as the first split sections, representing the first two merged subarrays, with the hill and relatively flat track representing the few comparisons between elements while sorting the array. When the previous golf ball reaches the end of the straightway, it lands in another carriage box, pulling the attached string down, tilting the platform of the next golf ball and causing it to drop onto the next ramp.
+
+![alt text](https://i.imgur.com/lK2MW3x.jpg "Stage 5.1")
+The second carriage box at the end of the long straightway.
+
+![alt text](https://i.imgur.com/saxQuyD.jpg "Stage 5.2")
+The launcher for the fifth golf ball.
+
+![alt text](https://i.imgur.com/MhaqCxK.jpg "Stage 5.3")
+The first hill (difficult to see because of the angle).
+
+![alt text](https://i.imgur.com/bxk4KQy.jpg "Stage 5.4")
+A long ramp on a slight downward angle leading to the start of the next stage.
+
+### Stage 6: To the launch
+At this point, the other subarrays are merging together, performing comparisons (ball going uphill and more time required), and merging (going downhill; faster). The ball goes down more than up, representing increases in speed and the array becoming nearly sorted. When the fifth ball reaches the end of the long ramp, it hits the bottom half of a lever, causing it to swing about its pivot and hit the sixth golf ball positioned above it.
+
+![alt text](https://i.imgur.com/g7ZZY4e.jpg "Stage 6.1")
+The lever system to trigger the final golf ball.
+
+![alt text](https://i.imgur.com/F4E3Z9s.jpg "Stage 6.2")
+The second hill and following turn.
+
+![alt text](https://i.imgur.com/zJU8HUq.jpg "Stage 6.3")
+The third hill.
+
+![alt text](https://i.imgur.com/VvxlMnd.jpg "Stage 6.4")
+The final bend, leading downward to the launch ramp.
+
+### Stage 7: To the end
+The ball undergoes projectile motion representing the returning of the sorted array, followed by hitting a spring at the end of the track to represent the algorithm exiting with a successful exit code, indicating that the operation was ultimately successful. The ball launches across a 30-cm long gap at an angle of 45 degrees, and then hits the spring at the end, bouncing back slightly until it comes to a rest.
+
+![alt text](https://i.imgur.com/lmVKOkZ.jpg "Stage 7.1")
+The launch and landing ramps for projectile motion.
+
+![alt text](https://i.imgur.com/fPwWloz.jpg "Stage 7.2")
+The spring mounted at the end of the track.
 
 ## Hypotheses
 
