@@ -7,13 +7,28 @@ Mergesort is a divide and conquer (top-down recursive) algorithm that runs in lo
 ![alt text](https://i.imgur.com/9RHOhLh.jpg "The completed machine")
 The overall completed machine.
 
+### Building process
+![alt text](https://i.imgur.com/bdvRLF8.jpg "Stage 0.1")
+
+![alt text](https://i.imgur.com/EwQ1fFJ.jpg "Stage 0.2")
+
+![alt text](https://i.imgur.com/peWFtN6.jpg "Stage 0.3")
+
+![alt text](https://i.imgur.com/1qIikBz.jpg "Stage 0.4")
+
+![alt text](https://i.imgur.com/92BADc3.jpg "Stage 0.5")
+
+![alt text](https://i.imgur.com/szsejch.jpg "Stage 0.6")
+
+Planning took approximately an hour, and actual construction took an entire day.
+
 ### Stage 1: Start to the vertical loop
 The golf ball is simply released from the top of the first ramp, and the machine begins to operate. This represents the beginning of execution, and the first division of the original array. No comparisons need to be made at this point, which is why the golf ball moves quickly. The loop and perfectly inelastic collision represent calculations determining where to split the array.
 
-![alt text](https://i.imgur.com/zFKh3wk.jpg "Stage 1A")
+![alt text](https://i.imgur.com/zFKh3wk.jpg "Stage 1.1")
 The initial ramp.
 
-![alt text](https://i.imgur.com/6k1nynV.jpg "Stage 1B")
+![alt text](https://i.imgur.com/6k1nynV.jpg "Stage 1.2")
 The vertical loop and perfectly inelastic collision.
 
 ### Stage 2: The first pulley
@@ -106,7 +121,8 @@ Kinetic energy -> sound energy: similar to the loss of mechanical energy due to 
 
 Kinetic energy -> elastic potential energy and vice versa: when the golf ball hits the spring, it compresses it and kinetic energy is converted to elastic potential energy (the ball loses speed but travels further into the spring). This is followed by the release of the elastic energy (like gravitational potential energy), extending and converting the stored energy into kinetic energy, increasing the speed of the ball.
 
-## Data
-
+### Conservation of Energy
+This model was built and tested in real-life, with real-life conditions (such as friction!). As an open system, it is impossible that mechanical energy will be conserved perfectly. Kinetic energy will be converted into thermal and sound energy, and the machine will eventually finish, concluding with every ball motionless and stationary. If, somehow, the model was run in a closed system, where mechanical energy would be perfectly conserved, then the balls would continue rolling forever until acted on by an external force.
 
 ## Results
+
