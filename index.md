@@ -77,7 +77,13 @@ The launch and landing ramps for projectile motion.
 The spring mounted at the end of the track.
 
 ## Hypotheses
+Energy conservation and efficiency: due to friction, the machine will not conserve mechanical energy. Instead, it will all be converted into useless forms of energy such as thermal energy and sound energy for the ball to come to a complete stop at the end of the track. As such, whatever the energy input is, the energy output will always be zero and so the efficiency of the machine will be 0%.
 
+Regarding the actual process of merge sort, no "energy" is required per se, but it can be interpreted as storage space. Addresses in a machine's physical memory can be manipulated and elements can be swapped, but there will always be the same number of total addresses regardless of the number of not necessarily distinct or contiguous subarrays. Regarding efficiency, the algorithm runs in logarithmic time, meaning that the runtime of the algorithm is logarithmic depending on the number of elements within the original array. This has nothing to do with physics and energy conservation, but it is interesting how one definition can be applied in multiple different ways, depending on the topic.
+
+Conservation of momentum (collisions): despite colliding into many objects throughout the run of the machine, momentum was always conserved, though mechanical energy was not. For example, during the perfectly inelastic collision, the first golf ball travelled at a very high speed but then slowed down somewhat when it hit the stationary second ball. The system did not lose momentum; the total mass was suddenly increased and so velocity decreased as a result. Additionally, some kinetic energy was lost due to friction, but this did not affect the momentum.
+
+In the partially elastic collison, the first ball travelled at a moderate speed toward the stationary target ball, and when it hit, most of the speed was 'transferred' to the second ball. The second ball started to move at a moderately slow speed forward, while the original ball was slowed down. If the velocities were added up however, a velocity equal to the velocity of the original ball before the collision would be achieved.
 
 ## Theoretical Background
 
